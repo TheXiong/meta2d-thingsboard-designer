@@ -7,6 +7,8 @@
 > 🚀 在线 Demo（GitHub Pages）  
 > https://thexiong.github.io/meta2d-thingsboard-designer
 
+
+此仓库代码为打包后代码，并且功能做了阉割，需要完整版源代码请加入最后面的QQ群，联系管理员获取。
 ---
 
 ## ✨ 功能特性
