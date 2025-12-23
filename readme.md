@@ -35,9 +35,8 @@
 
 ---
 
-## 📸 效果截图
+## 📸 效果截图（来自meta2d官方模板截图）
 
-![screenshot](./images/冷源群控系统.png)
 ![screenshot](./images/image.png)
 ![screenshot](./images/image1.png)
 
