@@ -4,8 +4,10 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheXiong.meta2d-thingsboard-designer)
 
-> 🚀 在线 Demo（GitHub Pages）  
-> https://thexiong.github.io/meta2d-thingsboard-designer
+> 🚀 在线 Demo 
+> https://www.meta2dthingsboard.cn
+> 📚 文档地址
+> https://api.meta2dthingsboard.cn/
 
 
 此仓库代码为打包后代码，并且功能做了阉割，需要完整版源代码请加入最后面的QQ群，联系管理员获取。
