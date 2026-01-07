@@ -4,9 +4,9 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheXiong.meta2d-thingsboard-designer)
 
-> 🚀 在线 Demo 
+> 🚀 在线体验 
 > https://www.meta2dthingsboard.cn
-> 📚 文档地址
+> 📚 使用文档
 > https://api.meta2dthingsboard.cn/
 
 
