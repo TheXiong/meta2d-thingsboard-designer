@@ -1,4 +1,4 @@
-# Meta2D ThingsBoard Designer
+# SceneV
 
 一个基于 **Meta2D** 打造的 **2D 可视化设计器 / 监控大屏编辑器 / IoT Dashboard Designer**，支持与 **ThingsBoard 数据源对接**，可用于创建 SCADA 组态、IoT 面板、设备监控拓扑等可视化系统。
 
