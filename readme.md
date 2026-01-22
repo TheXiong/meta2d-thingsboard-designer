@@ -48,4 +48,4 @@
 
 ## 联系方式
 
-![QQ群](./images/ef75482570314813a405e9ffc9dc8349.png)
+![QQ群](https://api.meta2dthingsboard.cn/assets/qq_group_qr.jpg)
