@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TheXiong.meta2d-thingsboard-designer)
 
-## 🚀 在线资源
+## 🚀 在线资源（关闭代理后访问）
 
 | 资源 | 地址 | 说明 |
 | :--- | :--- | :--- |
